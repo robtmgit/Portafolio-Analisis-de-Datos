@@ -338,7 +338,7 @@ img/country.png
 ### 2. Distribución Geográfica (Country)
 El mapa mundial muestra la densidad de usuarios y sus respectivas calificaciones por país. Los tonos azules indican la intensidad de la actividad o el nivel de satisfacción registrado en las distintas regiones.
 
-![Distribución por País](country.png)
+img/software.png
 
 ## Resumen del Conjunto de Datos
 La hoja de cálculo incluye información detallada sobre:
