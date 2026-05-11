@@ -329,7 +329,7 @@ Este repositorio contiene el análisis visual de la distribución de software y 
 ### 1. Recuento de Software Package
 Este gráfico de dona detalla la distribución de los tres niveles de servicio ofrecidos. Permite identificar rápidamente cuál es la opción preferida por los clientes.
 
-![Recuento de Software package](software.png)
+img/country.png
 
 * **Basic:** Es el paquete más descargado con un **40.1%**.
 * **Plus:** Representa el **36.7%** de la base de usuarios.
