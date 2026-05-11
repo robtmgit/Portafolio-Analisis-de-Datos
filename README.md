@@ -329,7 +329,7 @@ Este repositorio contiene el análisis visual de la distribución de software y 
 ### 1. Recuento de Software Package
 Este gráfico de dona detalla la distribución de los tres niveles de servicio ofrecidos. Permite identificar rápidamente cuál es la opción preferida por los clientes.
 
-![Country Distribution Map](img/country.png)
+![Software Package Chart](img/software.png)
 
 * **Basic:** Es el paquete más descargado con un **40.1%**.
 * **Plus:** Representa el **36.7%** de la base de usuarios.
@@ -338,7 +338,7 @@ Este gráfico de dona detalla la distribución de los tres niveles de servicio o
 ### 2. Distribución Geográfica (Country)
 El mapa mundial muestra la densidad de usuarios y sus respectivas calificaciones por país. Los tonos azules indican la intensidad de la actividad o el nivel de satisfacción registrado en las distintas regiones.
 
-![Software Package Chart](img/software.png)
+![Country Distribution Map](img/country.png)
 
 ## Resumen del Conjunto de Datos
 La hoja de cálculo incluye información detallada sobre:
