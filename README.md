@@ -320,4 +320,32 @@ Fila con departamento pero nombre null: Departamento inactivo o vacante.
 Fila con ambos datos: Relación correcta y funcional.
 
 <img width="518" height="384" alt="Captura de pantalla 2026-03-08 210211" src="https://github.com/user-attachments/assets/ca4e9049-1d16-49f6-8f4b-459f3a1de02f" />
+# Análisis de Encuesta de Servicio al Cliente
 
+Este repositorio contiene el análisis visual de la distribución de software y la presencia geográfica de los usuarios, basado en los datos de la encuesta de servicio al cliente.
+
+## Visualizaciones Principales
+
+### 1. Recuento de Software Package
+Este gráfico de dona detalla la distribución de los tres niveles de servicio ofrecidos. Permite identificar rápidamente cuál es la opción preferida por los clientes.
+
+![Recuento de Software package](software.png)
+
+* **Basic:** Es el paquete más descargado con un **40.1%**.
+* **Plus:** Representa el **36.7%** de la base de usuarios.
+* **Premium:** Constituye el **23.1%** del total.
+
+### 2. Distribución Geográfica (Country)
+El mapa mundial muestra la densidad de usuarios y sus respectivas calificaciones por país. Los tonos azules indican la intensidad de la actividad o el nivel de satisfacción registrado en las distintas regiones.
+
+![Distribución por País](country.png)
+
+## Resumen del Conjunto de Datos
+La hoja de cálculo incluye información detallada sobre:
+* **Identificación:** Nombre, apellido y nombre de usuario.
+* **Temporalidad:** Fecha de descarga del software.
+* **Producto:** Tipo de paquete adquirido.
+* **Satisfacción:** Puntuación (Score) otorgada por el cliente.
+
+---
+*Análisis generado para el seguimiento de métricas de Customer Success.*
